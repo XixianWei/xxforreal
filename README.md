@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xxforreal
+- 👋 Hi, I’m @Xixian Wei
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Comparative Literature and Software Engineering
+- 🌱 I’m currently learning Comparative Literature and Computer Science
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me xixian.wei94@gmail.com
 
